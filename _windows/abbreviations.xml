@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Maven_c16fe549management-server15c39494org.apache.tomcat.maven:tomcat7-maven-plugin:2.1:run">
+        <abbreviation name="tomcat-management" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

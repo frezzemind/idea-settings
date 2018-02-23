@@ -1,0 +1,43 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.js,</mask>
+      <mask>*.js,*</mask>
+      <mask>*.js,*.</mask>
+      <mask>*.js,*.f</mask>
+      <mask>*.js,*.ft</mask>
+      <mask>*.js,*.ftl</mask>
+      <mask>*.js,*.ftl,</mask>
+      <mask>*.js,*.ftl,*</mask>
+      <mask>*.js,*.ftl,*.</mask>
+      <mask>*.js,*.ftl,*.h</mask>
+      <mask>*.js,*.ftl,*.ht</mask>
+      <mask>*.js,*.ftl,*.htm</mask>
+      <mask>*.js,*.ftl,*.html</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.f</mask>
+      <mask>*.ft</mask>
+      <mask>*.ftl，</mask>
+      <mask>*.xml</mask>
+      <mask>*.ftl</mask>
+      <mask>*.ftl,&amp;</mask>
+      <mask>*.ftl,</mask>
+      <mask>*.ftl,*</mask>
+      <mask>*.ftl,*.</mask>
+      <mask>*.ftl,*.j</mask>
+      <mask>*.ftl,*.js</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>

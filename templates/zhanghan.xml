@@ -1,0 +1,37 @@
+<templateSet group="zhanghan">
+  <template name="prqm" value="@RequestMapping(value = &quot;&quot;, method = RequestMethod.POST, produces = MediaType.APPLICATION_JSON_VALUE)&#10;@ResponseBody&#10;public ModelMap post(){&#10;    return DataPack.packOk();&#10;}" description="Post RequestMapping" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="grqm" value="@RequestMapping(value = &quot;&quot;, method = RequestMethod.GET, produces = MediaType.TEXT_HTML_VALUE)&#10;public String get(){&#10;    return &quot;&quot;;&#10;}" description="Get RequestMapping" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="svuid" value="private static final long serialVersionUID = 1L;" description="serialVersionUID" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="cc" value="/**&#10; * $CLASSNAME$&#10; *&#10; * @author $USER$&#10; * @date $DATE$&#10; * @since 1.0&#10; */" description="Class Comment" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASSNAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="slf4jlogger" value="private static final Logger logger = LoggerFactory.getLogger($CLASS$.class);&#10;$END$" description="SLF4J Logger" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="prct" value="private $CLASSNAME$() {&#10;    throw new UnsupportedOperationException(&quot;$CLASSNAME$ is static class, can not be construct to a instance&quot;);&#10;}" description="Private Constructor" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASSNAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

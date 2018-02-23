@@ -1,0 +1,17 @@
+<application>
+  <component name="ToStringTemplates">
+    <option name="defaultTempalteName" value="StringBuilder (JDK 1.5)" />
+    <option name="templates">
+      <list>
+        <TemplateResource>
+          <option name="fileName" value="FastJSON" />
+          <option name="template" value="public java.lang.String toString() {&#10;    return com.alibaba.fastjson.JSON.toJSONString(this);&#10;}" />
+        </TemplateResource>
+        <TemplateResource>
+          <option name="fileName" value="ReflectionToStringBuilder" />
+          <option name="template" value="public java.lang.String toString() {&#10;    return org.apache.commons.lang3.builder.ReflectionToStringBuilder.toString(this, org.apache&#10;.commons.lang3.builder.ToStringStyle.JSON_STYLE);&#10;}" />
+        </TemplateResource>
+      </list>
+    </option>
+  </component>
+</application>
