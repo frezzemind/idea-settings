@@ -1,0 +1,20 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="vsdx" type="Native" />
+      <mapping pattern="redPacketConsumeLog" type="PLAIN_TEXT" />
+      <mapping pattern="msgErrors" type="PLAIN_TEXT" />
+      <mapping pattern="ss" type="PLAIN_TEXT" />
+      <mapping pattern="riskControlLog" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="failedMessage" type="PLAIN_TEXT" />
+      <mapping pattern="consumeTime" type="PLAIN_TEXT" />
+      <mapping pattern="oweTrackLogErrors" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="internationalSmsError" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="nginx file type" />
+    </extensionMap>
+  </component>
+</application>

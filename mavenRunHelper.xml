@@ -32,7 +32,22 @@
               <option name="commandLine" value="site" />
             </Goal>
             <Goal>
-              <option name="commandLine" value="clean install" />
+              <option name="commandLine" value="clean package -Dmaven.test.skip=true -Pprod" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean package -Dmaven.test.skip=true -Ptest" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean package -Pdev -Dmaven.test.skip=true" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean package -Plocalhost -Dmaven.test.skip=true" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="mybatis-generator:generate -DskipTests=true" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="dependency:tree" />
             </Goal>
           </list>
         </option>

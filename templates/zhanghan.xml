@@ -1,5 +1,5 @@
 <templateSet group="zhanghan">
-  <template name="prqm" value="@RequestMapping(value = &quot;&quot;, method = RequestMethod.POST, produces = MediaType.APPLICATION_JSON_VALUE)&#10;@ResponseBody&#10;public ModelMap post(){&#10;    return DataPack.packOk();&#10;}" description="Post RequestMapping" toReformat="true" toShortenFQNames="true">
+  <template name="prqm" value="@RequestMapping(value = &quot;&quot;, method = RequestMethod.POST, produces = MediaType.APPLICATION_JSON_UTF8_VALUE)&#10;@ResponseBody&#10;public ModelMap post(){&#10;    return DataPack.packOk();&#10;}" description="Post RequestMapping" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

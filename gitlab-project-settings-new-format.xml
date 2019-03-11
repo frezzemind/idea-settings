@@ -1,0 +1,14 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="BnGQfiwXADF25MocvG_m" />
+          <option name="apiUrl" value="https://g.hz.netease.com" />
+          <option name="removeSourceBranch" value="false" />
+          <option name="repositoryUrl" value="g.hz.netease.com" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>

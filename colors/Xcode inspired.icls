@@ -1,5 +1,6 @@
 <scheme name="Xcode inspired" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="14" />
@@ -18,14 +19,16 @@
   </console-font>
   <colors>
     <option name="CARET_ROW_COLOR" value="ffffff" />
-    <option name="GUTTER_BACKGROUND" value="ffffff" />
+    <option name="GUTTER_BACKGROUND" value="" />
     <option name="INDENT_GUIDE" value="b5d5ff" />
     <option name="METHOD_SEPARATORS_COLOR" value="ffffff" />
     <option name="SELECTED_INDENT_GUIDE" value="0" />
     <option name="SELECTED_TEARLINE_COLOR" value="b5d5ff" />
     <option name="SELECTION_BACKGROUND" value="b5d5ff" />
     <option name="SELECTION_FOREGROUND" value="0" />
+    <option name="SEPARATOR_ABOVE_COLOR" value="cce8cf" />
     <option name="TEARLINE_COLOR" value="ffffff" />
+    <option name="WHITESPACES" value="ffffff" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">

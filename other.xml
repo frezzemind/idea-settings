@@ -1,0 +1,180 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Control FlowGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issuesJava</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>ConstantConditionalExpressionJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="BuiltInServerOptions" builtInServerAvailableExternally="true" allowUnsignedRequests="true" />
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:D:/intellij-java-google-style.xml" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="JavaDocSyncPlugin">
+    <option name="checkInnerClasses" value="true" />
+    <option name="checkAnonymousClasses" value="true" />
+    <option name="methodDetectionLevel" value="private" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="0-0-0-255,,,204-232-207-255,,,255-255-255-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.86389685" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.78" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="ConsoleQuickFilterPanel-expression" value="0|false|false|false|matches&#10;0|false|false|false|matched:&#10;0|false|false|false|[ERROR]&#10;0|false|false|false|matched" />
+    <property name="ConsoleQuickFilterPanel-unlessExpression" value="" />
+    <property name="Copy.OpenInEditor" value="false" />
+    <property name="DBE.Default.Dialect" value="" />
+    <property name="DEVKIT_SANDBOX_HISTORY" value="C:\Users\hzzhanghan\.IntelliJIdea2018.2\system\plugins-sandbox" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExternalToolDialog.advanced.expanded" value="true" />
+    <property name="FileTemplates.CurrentTab" value="Other" />
+    <property name="FileTemplates.SelectedTemplate" value="Maven Project" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.108283706" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="InstalledPluginsSearchHistory" value="python" />
+    <property name="JUnit.Splitter.Proportion" value="0.13968597" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="push&#10;method&#10;replace in&#10;find in&#10;replace" />
+    <property name="LATEST_GRADLE_VERSION_KEY" value="0.3.12" />
+    <property name="LATEST_UPDATING_TIME_KEY" value="1541476431704" />
+    <property name="LayoutCode.codeCleanup" value="true" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="LayoutCode.rearrangeEntriesMarkdown" value="false" />
+    <property name="LayoutCode.rearrangeEntriesXML" value="true" />
+    <property name="LiveContextsPanel[0]" value="0.11007155" />
+    <property name="MavenHelper.lastRadioButton" value="tree" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="yaml&#10;jcs&#10;term&#10;maven&#10;intellij plugin de" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SHOW_INHERITED.file.structure.state" value="true" />
+    <property name="SearchEveryWhereHistory" value="The following has evaluated to null or missing&#10;_Log4jLoggerFactory&#10;Error executing FreeMarker template&#10;TechnicalSupportRecordDetailUpdateModel&#10;TechnicalSupportRecordDetailUpdateModel.class" />
+    <property name="SettingsSearchHistory" value="spring&#10;spring.fac&#10;tab&#10;number&#10;git" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SonarLint.analyzeAllFiles.hideWarning" value="false" />
+    <property name="SplitFileEditor.Proportion" value="0.4559023" />
+    <property name="SpringBeansModulesPanel[0]" value="0.108342364" />
+    <property name="SpringBeansModulesPanel[1]" value="0.12158055" />
+    <property name="SpringBeansModulesPanel[2]" value="0.22422145" />
+    <property name="SpringBeansModulesPanel[3]" value="0.17857143" />
+    <property name="SpringMvcModulesPanel[0]" value="0.13210613" />
+    <property name="SpringMvcModulesPanel[1]" value="0.12484395" />
+    <property name="SpringMvcModulesPanel[2]" value="0.14275518" />
+    <property name="SpringRepositoriesModulesPanel[0]" value="0.108342364" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="maven&#10;idea&#10;java&#10;plugin&#10;ide" />
+    <property name="TrendingPluginsSearchHistory" value="memory analyzer&#10;memory an&#10;tag:Profiling&#10;jprofile&#10;hrp" />
+    <property name="Vcs.Log.Text.Filter.History" value="9352a2c&#10;Merge&#10;Merge refactor&#10;merge 9.6&#10;refactor" />
+    <property name="android-component-compatibility-check" value="1531101370969" />
+    <property name="build.toolwindow.Build.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.remoteServer.impl.runtime.ui.DefaultRemoteServersViewContribution.0" value="300" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="dir.diff.panel.divider.location" value="54" />
+    <property name="evlsprt.173" value="1625c026d29" />
+    <property name="evlsprt2.173" value="16219107fe6" />
+    <property name="evlsprt3.173" value="13" />
+    <property name="evlsprt3.182" value="14" />
+    <property name="evlsprt3.183" value="12" />
+    <property name="export.settings.path" value="D:\\idea-settings.jar" />
+    <property name="file.chooser.recent.files" value="D:/workspace/coding/zhanghan0031/some-problems-record&#10;D:/workspace/coding/hzzhanghan/nss-collector-scripts&#10;D:/workspace/coding/yunxin-web/yunxin-web-parent-pom&#10;D:/workspace/coding/yunxin-web/nginx-config&#10;D:/workspace/coding/yunxin-web/notice-sender&#10;D:/workspace/coding/yunxin-web/manage-common&#10;D:/workspace/coding/zhanghan0031/spring-study&#10;D:/workspace/coding/zhanghan0031/half-an-hour-after-work&#10;D:/workspace/coding/zhanghan0031/examples-maven-wrapper&#10;D:/workspace/code/zxl2014&#10;D:/workspace/code/github/spring-cloud-sleuth-message-trace&#10;D:/workspace/code/github/sleuth-webmvc-example&#10;D:/workspace/code/nimworkspace/operation-website&#10;C:/Users/hzzhanghan/java_pid16390.hprof&#10;C:/Users/hzzhanghan/.ssh/id_rsa&#10;D:/workspace/code/nimworkspace/nss-collector-scripts&#10;D:/workspace/code/vankeworkspace/vanke-web-commons&#10;D:/workspace/code/github/spring-projects/spring-framework&#10;C:/Users/hzzhanghan/Desktop&#10;C:/Program Files/Java/jdk1.8.0_202&#10;D:/workspace/code/nimworkspace/yunxin-web-session&#10;D:/workspace/code/nimworkspace/pomelo-session&#10;D:/workspace/code/nimworkspace/management-website&#10;D:/workspace/code/github/spring-projects/spring-session&#10;D:/workspace/code/nimworkspace/notice-sender&#10;D:/workspace/code/nimworkspace/accouting-system&#10;D:/workspace/code/zxl2014/some-problems-record&#10;D:/workspace/code/nimworkspace/notice-sender/pom.xml&#10;D:/workspace/code/xueneng/vanke-doc&#10;D:/workspace/code/xueneng/vanke-management" />
+    <property name="file.gist.reindex.count" value="132918" />
+    <property name="fileTypeChangedCounter" value="14" />
+    <property name="find.popup.splitter" value="0.44709897" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="jdk.selected.PLUGIN_MODULE" value="IntelliJ IDEA IU-182.4892.20" />
+    <property name="js.modules.notification.shown" value="true" />
+    <property name="krasa.grepconsole.gui.CompositeSettingsDialog" value="751" />
+    <property name="last.imported.location" value="D:/workspace/coding/zhanghan0031/examples-maven-wrapper" />
+    <property name="last.used.gradle.home" value="D:/workspace/software/gradle-4.8-bin/gradle-4.8" />
+    <property name="lastTip" value="11" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="run.configuration.edit.ad" value="true" />
+    <property name="search.everywhere.max.popup.width" value="640" />
+    <property name="selected.color.option.type" value="GUTTER_BACKGROUND" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.56929636" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.55277187" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://svn.hz.netease.com/svn/nim/web/operation_website/trunk" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://svn.hz.netease.com/svn/nim/web/operation_website/trunk" />
+      </list>
+    </option>
+  </component>
+  <component name="ToStringSettings">
+    <option name="enableMethods" value="true" />
+  </component>
+  <component name="com.seventh7.widget.iedis.config.I">
+    <pattern>*</pattern>
+  </component>
+  <component name="com.seventh7.widget.iedis.config.ServerConfigurations">
+    <servers>
+      <general label="dev" host="10.240.76.63" port="6379" password="" timestamp="1511406803274" />
+    </servers>
+  </component>
+</application>
