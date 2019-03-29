@@ -6,6 +6,11 @@
           <option name="port" value="1046" />
         </fileTransfer>
       </webServer>
+      <webServer id="4f7673b8-09ba-4f85-877d-5a8b50fab081" name="hzzhanghan@59.111.241.213:1046" url="http:///">
+        <fileTransfer host="59.111.241.213" port="1046" privateKey="C:\Users\hzzhanghan\.ssh\id_rsa" accessType="SFTP" keyPair="true">
+          <option name="port" value="1046" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
