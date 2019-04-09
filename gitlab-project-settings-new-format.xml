@@ -1,5 +1,633 @@
 <application>
   <component name="SettingsState">
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/hzzhanghan/mmc_issue_creator.git" />
+          <option name="name" value="mmc_issue_creator" />
+          <option name="namespace" value="hzzhanghan" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/hzzhanghan/mmc_issue_creator.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/hzzhanghan/nss-collector-scripts.git" />
+          <option name="name" value="nss-collector-scripts" />
+          <option name="namespace" value="hzzhanghan" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/hzzhanghan/nss-collector-scripts.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/mmcweb/operation_website.git" />
+          <option name="name" value="operation_website" />
+          <option name="namespace" value="mmcweb" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/mmcweb/operation_website.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/mmcweb/web_common_shared.git" />
+          <option name="name" value="web_common_shared" />
+          <option name="namespace" value="mmcweb" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/mmcweb/web_common_shared.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/NIMTest/NimManagerApiTest.git" />
+          <option name="name" value="NimManagerApiTest" />
+          <option name="namespace" value="NIMTest" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/NIMTest/NimManagerApiTest.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/vanke-vcloud-web/vanke-android.git" />
+          <option name="name" value="vanke-android" />
+          <option name="namespace" value="vanke-vcloud-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/vanke-vcloud-web/vanke-android.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/vanke-vcloud-web/vanke-android-mirror.git" />
+          <option name="name" value="vanke-android-mirror" />
+          <option name="namespace" value="vanke-vcloud-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/vanke-vcloud-web/vanke-android-mirror.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/vanke-vcloud-web/vanke-background-mirror.git" />
+          <option name="name" value="vanke-background-mirror" />
+          <option name="namespace" value="vanke-vcloud-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/vanke-vcloud-web/vanke-background-mirror.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/vanke-vcloud-web/vanke-deploy.git" />
+          <option name="name" value="vanke-deploy" />
+          <option name="namespace" value="vanke-vcloud-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/vanke-vcloud-web/vanke-deploy.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/vanke-vcloud-web/doc.git" />
+          <option name="name" value="vanke-doc" />
+          <option name="namespace" value="vanke-vcloud-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/vanke-vcloud-web/doc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/vanke-vcloud-web/vanke-doc-mirror.git" />
+          <option name="name" value="vanke-doc-mirror" />
+          <option name="namespace" value="vanke-vcloud-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/vanke-vcloud-web/vanke-doc-mirror.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/vanke-vcloud-web/vanke-iOS.git" />
+          <option name="name" value="vanke-iOS" />
+          <option name="namespace" value="vanke-vcloud-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/vanke-vcloud-web/vanke-iOS.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/vanke-vcloud-web/vanke-ios-mirror.git" />
+          <option name="name" value="vanke-ios-mirror" />
+          <option name="namespace" value="vanke-vcloud-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/vanke-vcloud-web/vanke-ios-mirror.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/vanke-vcloud-web/vanke-management-mirror.git" />
+          <option name="name" value="vanke-management-mirror" />
+          <option name="namespace" value="vanke-vcloud-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/vanke-vcloud-web/vanke-management-mirror.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/vanke-vcloud-web/vanke-mangement.git" />
+          <option name="name" value="vanke-mangement" />
+          <option name="namespace" value="vanke-vcloud-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/vanke-vcloud-web/vanke-mangement.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/vanke-vcloud-web/vanke-oms.git" />
+          <option name="name" value="vanke-oms" />
+          <option name="namespace" value="vanke-vcloud-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/vanke-vcloud-web/vanke-oms.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/vanke-vcloud-web/vanke-oms-mirror.git" />
+          <option name="name" value="vanke-oms-mirror" />
+          <option name="namespace" value="vanke-vcloud-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/vanke-vcloud-web/vanke-oms-mirror.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/vanke-vcloud-web/vanke-web-commons.git" />
+          <option name="name" value="vanke-web-commons" />
+          <option name="namespace" value="vanke-vcloud-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/vanke-vcloud-web/vanke-web-commons.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/vanke-vcloud-web/vanke-web-commons-mirror.git" />
+          <option name="name" value="vanke-web-commons-mirror" />
+          <option name="namespace" value="vanke-vcloud-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/vanke-vcloud-web/vanke-web-commons-mirror.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/vanke-vcloud-web/vanke-website-mirror.git" />
+          <option name="name" value="vanke-website-mirror" />
+          <option name="namespace" value="vanke-vcloud-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/vanke-vcloud-web/vanke-website-mirror.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/vcloud/doc.git" />
+          <option name="name" value="doc" />
+          <option name="namespace" value="vcloud" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/vcloud/doc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/vcloud/manage-common.git" />
+          <option name="name" value="manage-common" />
+          <option name="namespace" value="vcloud" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/vcloud/manage-common.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/vcloud/operation.git" />
+          <option name="name" value="operation" />
+          <option name="namespace" value="vcloud" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/vcloud/operation.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/vcloud/vcloudPrivate.git" />
+          <option name="name" value="vcloudPrivate" />
+          <option name="namespace" value="vcloud" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/vcloud/vcloudPrivate.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/vcloud-sdk/sdkDynamicAuth.git" />
+          <option name="name" value="sdkDynamicAuth" />
+          <option name="namespace" value="vcloud-sdk" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/vcloud-sdk/sdkDynamicAuth.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/bankDemo.git" />
+          <option name="name" value="bankDemo" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/bankDemo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/bbs-upload.git" />
+          <option name="name" value="bbs-upload" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/bbs-upload.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/daily-script.git" />
+          <option name="name" value="daily-script" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/daily-script.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/education-demo-web.git" />
+          <option name="name" value="education-demo-web" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/education-demo-web.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/go-tools.git" />
+          <option name="name" value="go-tools" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/go-tools.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/imPrivateDeploy.git" />
+          <option name="name" value="imPrivateDeploy" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/imPrivateDeploy.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/imPrivateManage.git" />
+          <option name="name" value="imPrivateManage" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/imPrivateManage.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/js-in-action-comm.git" />
+          <option name="name" value="js-in-action-comm" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/js-in-action-comm.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/macim_fork.git" />
+          <option name="name" value="macim_fork" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/macim_fork.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/medical-demo-web.git" />
+          <option name="name" value="medical-demo-web" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/medical-demo-web.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/nim-ops.git" />
+          <option name="name" value="nim-ops" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/nim-ops.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/nim-react-native-demo.git" />
+          <option name="name" value="nim-react-native-demo" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/nim-react-native-demo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/nim-web-demo-desktop.git" />
+          <option name="name" value="nim-web-demo-desktop" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/nim-web-demo-desktop.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/nim-web-demo-h5.git" />
+          <option name="name" value="nim-web-demo-h5" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/nim-web-demo-h5.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/nim-web-demo-pc.git" />
+          <option name="name" value="nim-web-demo-pc" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/nim-web-demo-pc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/nim-web-demo-private.git" />
+          <option name="name" value="nim-web-demo-private" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/nim-web-demo-private.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/nim-web-sdk.git" />
+          <option name="name" value="nim-web-sdk" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/nim-web-sdk.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/nim-web-sdk-qiyu.git" />
+          <option name="name" value="nim-web-sdk-qiyu" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/nim-web-sdk-qiyu.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/nim-web-sdk-sample-code.git" />
+          <option name="name" value="nim-web-sdk-sample-code" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/nim-web-sdk-sample-code.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/nim-web-sdk-tester.git" />
+          <option name="name" value="nim-web-sdk-tester" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/nim-web-sdk-tester.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/nim-weixin-chatroom.git" />
+          <option name="name" value="nim-weixin-chatroom" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/nim-weixin-chatroom.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/node-management-platform.git" />
+          <option name="name" value="node-management-platform" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/node-management-platform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/node-permission.git" />
+          <option name="name" value="node-permission" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/node-permission.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/node-toolkit.git" />
+          <option name="name" value="node-toolkit" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/node-toolkit.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/node-webdoc.git" />
+          <option name="name" value="node-webdoc" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/node-webdoc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/node-website.git" />
+          <option name="name" value="node-website" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/node-website.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/node-wiki.git" />
+          <option name="name" value="node-wiki" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/node-wiki.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/php-wordpress.git" />
+          <option name="name" value="php-wordpress" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/php-wordpress.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/playerDemo.git" />
+          <option name="name" value="playerDemo" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/playerDemo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/python-analysis.git" />
+          <option name="name" value="python-analysis" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/python-analysis.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/python-corpinfo.git" />
+          <option name="name" value="python-corpinfo" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/python-corpinfo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/python-official-manager.git" />
+          <option name="name" value="python-official-manager" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/python-official-manager.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/python-pkg-manager.git" />
+          <option name="name" value="python-pkg-manager" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/python-pkg-manager.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/python-statistic-platform.git" />
+          <option name="name" value="python-statistic-platform" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/python-statistic-platform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/python-supporter.git" />
+          <option name="name" value="python-supporter" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/python-supporter.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/python-tools.git" />
+          <option name="name" value="python-tools" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/python-tools.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/python-tools-3.git" />
+          <option name="name" value="python-tools-3" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/python-tools-3.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/python-webdoc-sync.git" />
+          <option name="name" value="python-webdoc-sync" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/python-webdoc-sync.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/qs-nodeweb.git" />
+          <option name="name" value="qs-nodeweb" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/qs-nodeweb.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/qs-website.git" />
+          <option name="name" value="qs-website" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/qs-website.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/quality-website.git" />
+          <option name="name" value="quality-website" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/quality-website.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/qualityPlatform.git" />
+          <option name="name" value="qualityPlatform" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/qualityPlatform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/quickHtml.git" />
+          <option name="name" value="quickHtml" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/quickHtml.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/regular-strap.git" />
+          <option name="name" value="regular-strap" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/regular-strap.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/screen-share-web-plugin-chrome.git" />
+          <option name="name" value="screen-share-web-plugin-chrome" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/screen-share-web-plugin-chrome.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/socket.io.2.git" />
+          <option name="name" value="socket.io.2" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/socket.io.2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/SRE-website.git" />
+          <option name="name" value="SRE-website" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/SRE-website.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/vanke-background.git" />
+          <option name="name" value="vanke-background" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/vanke-background.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/vanke-website.git" />
+          <option name="name" value="vanke-website" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/vanke-website.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/vcloudNos.git" />
+          <option name="name" value="vcloudNos" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/vcloudNos.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/vcloudSpeedTest.git" />
+          <option name="name" value="vcloudSpeedTest" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/vcloudSpeedTest.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/vue-virtual-list.git" />
+          <option name="name" value="vue-virtual-list" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/vue-virtual-list.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/wapp-activity.git" />
+          <option name="name" value="wapp-activity" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/wapp-activity.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/wapp-calendar.git" />
+          <option name="name" value="wapp-calendar" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/wapp-calendar.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/wawaji.git" />
+          <option name="name" value="wawaji" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/wawaji.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/wawaji-h5.git" />
+          <option name="name" value="wawaji-h5" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/wawaji-h5.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/wawaji-hls.git" />
+          <option name="name" value="wawaji-hls" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/wawaji-hls.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/weapp-netcall.git" />
+          <option name="name" value="weapp-netcall" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/weapp-netcall.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/weapp-netcall-demo.git" />
+          <option name="name" value="weapp-netcall-demo" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/weapp-netcall-demo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/weapp-netcall-sdk.git" />
+          <option name="name" value="weapp-netcall-sdk" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/weapp-netcall-sdk.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/web-whiteboard.git" />
+          <option name="name" value="web-whiteboard" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/web-whiteboard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/webPlayer.git" />
+          <option name="name" value="webPlayer" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/webPlayer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/weixin-app.git" />
+          <option name="name" value="weixin-app" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/weixin-app.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin/zhilian-zhaopin-im.git" />
+          <option name="name" value="zhilian-zhaopin-im" />
+          <option name="namespace" value="yunxin" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin/zhilian-zhaopin-im.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin-web/accouting-system.git" />
+          <option name="name" value="accouting-system" />
+          <option name="namespace" value="yunxin-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin-web/accouting-system.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin-web/app-migrate-tool.git" />
+          <option name="name" value="app-migrate-tool" />
+          <option name="namespace" value="yunxin-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin-web/app-migrate-tool.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin-web/appdemo-server.git" />
+          <option name="name" value="appdemo-server" />
+          <option name="namespace" value="yunxin-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin-web/appdemo-server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin-web/demo-server.git" />
+          <option name="name" value="demo-server" />
+          <option name="namespace" value="yunxin-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin-web/demo-server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin-web/doc.git" />
+          <option name="name" value="doc" />
+          <option name="namespace" value="yunxin-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin-web/doc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin-web/management-website.git" />
+          <option name="name" value="management-website" />
+          <option name="namespace" value="yunxin-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin-web/management-website.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin-web/mmc-cloudcc.git" />
+          <option name="name" value="mmc-cloudcc" />
+          <option name="namespace" value="yunxin-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin-web/mmc-cloudcc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin-web/nginx-config.git" />
+          <option name="name" value="nginx-config" />
+          <option name="namespace" value="yunxin-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin-web/nginx-config.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin-web/nim-backend.git" />
+          <option name="name" value="nim-backend" />
+          <option name="namespace" value="yunxin-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin-web/nim-backend.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin-web/notice-sender.git" />
+          <option name="name" value="notice-sender" />
+          <option name="namespace" value="yunxin-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin-web/notice-sender.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin-web/operation-website.git" />
+          <option name="name" value="operation-website" />
+          <option name="namespace" value="yunxin-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin-web/operation-website.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin-web/public-common-shared.git" />
+          <option name="name" value="public-common-shared" />
+          <option name="namespace" value="yunxin-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin-web/public-common-shared.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin-web/python-statistic.git" />
+          <option name="name" value="python-statistic" />
+          <option name="namespace" value="yunxin-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin-web/python-statistic.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/yunxin-web/yunxin-web-parent.git" />
+          <option name="name" value="yunxin-web-parent" />
+          <option name="namespace" value="yunxin-web" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/yunxin-web/yunxin-web-parent.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://g.hz.netease.com/zhouliangwei/ossUploader.git" />
+          <option name="name" value="ossUploader" />
+          <option name="namespace" value="zhouliangwei" />
+          <option name="sshUrl" value="ssh://git@g.hz.netease.com:22222/zhouliangwei/ossUploader.git" />
+        </ProjectDto>
+      </list>
+    </option>
     <option name="gitlabServers">
       <list>
         <GitlabServer>
