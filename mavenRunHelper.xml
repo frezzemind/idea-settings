@@ -49,6 +49,9 @@
             <Goal>
               <option name="commandLine" value="dependency:tree" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="war:inplace" />
+            </Goal>
           </list>
         </option>
       </Goals>
