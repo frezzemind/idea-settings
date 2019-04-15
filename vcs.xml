@@ -18,9 +18,13 @@
           <option name="url" value="ssh://git@g.hz.netease.com:22222/yunxin-web/app-migrate-tool.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@g.hz.netease.com:22222/yunxin/qs-website.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\workspace\coding\yunxin-web" />
+    <option name="cloneParentDir" value="D:\workspace\coding\yunxin" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
