@@ -1,0 +1,24 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="donationNagger">
+      <DonationNagger>
+        <option name="actionsExecuted" value="7841" />
+        <option name="firstUsage" value="1537859577875" />
+        <option name="firstUsedVersion" value="18.2.181.000.0-Eclipse_4.9.0" />
+        <option name="lastNaggingDate" value="1547451821041" />
+      </DonationNagger>
+    </option>
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="disabledFileTypes" value="xml;html;ftl;" />
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1465701086636" />
+          <option name="name" value="default" />
+          <option name="pathToConfigFileJava" value="D:/workspace/config/eclipse-java-google-style.xml" />
+          <option name="selectedJavaProfile" value="GoogleStyle" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>

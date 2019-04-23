@@ -1,0 +1,22 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="fileExclusions">
+      <list>
+        <option value="**/*{!.java}" />
+        <option value="src/main/test/**" />
+      </list>
+    </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://10.240.76.83:9000/" />
+          <option name="name" value="nim-dev" />
+          <option name="login" value="hzzhanghan" />
+          <password>df9bdf98df99df9edf9fdf9c</password>
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
