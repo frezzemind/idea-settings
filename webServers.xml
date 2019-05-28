@@ -11,6 +11,11 @@
           <option name="port" value="1046" />
         </fileTransfer>
       </webServer>
+      <webServer id="b81fb7af-4aac-40c5-ad00-cb657bffb0c9" name="hzzhanghan@hzabj-vcloud5.server.163.org:1046" url="http:///">
+        <fileTransfer host="hzabj-vcloud5.server.163.org" port="1046" accessType="SFTP" authAgent="true">
+          <option name="port" value="1046" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
