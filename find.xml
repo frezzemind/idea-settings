@@ -5,6 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -16,10 +17,10 @@
     <mask>*.js</mask>
     <mask>db.properties</mask>
     <mask>!*.java</mask>
-    <mask>*.xml</mask>
     <mask>*DO.java</mask>
     <mask>*.rej</mask>
     <mask>*.java</mask>
     <mask>*.data</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
