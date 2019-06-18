@@ -1,21 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="44b1f214-4a25-4db6-a6e4-22ef9e86c0c0" name="hzzhanghan@59.111.148.80:1046" url="http:///">
-        <fileTransfer host="59.111.148.80" port="1046" privateKey="C:\Users\hzzhanghan\.ssh\id_rsa" accessType="SFTP" keyPair="true">
-          <option name="port" value="1046" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="4f7673b8-09ba-4f85-877d-5a8b50fab081" name="hzzhanghan@59.111.241.213:1046" url="http:///">
-        <fileTransfer host="59.111.241.213" port="1046" privateKey="C:\Users\hzzhanghan\.ssh\id_rsa" accessType="SFTP" keyPair="true">
-          <option name="port" value="1046" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="b81fb7af-4aac-40c5-ad00-cb657bffb0c9" name="hzzhanghan@hzabj-vcloud5.server.163.org:1046" url="http:///">
-        <fileTransfer host="hzabj-vcloud5.server.163.org" port="1046" accessType="SFTP" authAgent="true">
-          <option name="port" value="1046" />
-        </fileTransfer>
-      </webServer>
       <webServer id="bbc45da1-c69f-4cf5-afdf-4a7f6a71d8b4" name="hzzhanghan@hzajd-yunxin-test-18.test.nim.jd.vpc:1046" url="http:///">
         <fileTransfer host="hzajd-yunxin-test-18.test.nim.jd.vpc" port="1046" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
           <option name="port" value="1046" />
