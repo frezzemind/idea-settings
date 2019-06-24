@@ -12,8 +12,9 @@
       <mapping pattern="oweTrackLogErrors" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="internationalSmsError" type="PLAIN_TEXT" />
-      <mapping ext="propeties" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="job" type="PLAIN_TEXT" />
+      <mapping ext="propeties" type="PLAIN_TEXT" />
       <mapping ext="conf" type="nginx file type" />
     </extensionMap>
   </component>
